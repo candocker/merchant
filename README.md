@@ -1,2 +1,2 @@
 # merchant
-Merchant
+The module merchant wiki
